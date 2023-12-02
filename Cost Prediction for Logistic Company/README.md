@@ -22,4 +22,4 @@ The project employs traditional machine learning techniques such as:
 
 Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/bainskarman/kaggle_projects/Cost Prediction for Logistic Company.git
+   git clone https://github.com/bainskarman/kaggle_projects/tree/main/Cost%20Prediction%20for%20Logistic%20Company
