@@ -6,10 +6,6 @@ Welcome to the Kaggle Housing Prices Competition project repository. This projec
 
 The objective of this competition is to predict the sale prices of residential homes based on various features such as square footage, neighborhood, number of bedrooms, etc. The dataset is provided by Kaggle and includes both training and testing datasets.
 
-## Directory Structure
-
-- **`data/`**: Contains the dataset for training and testing.
-- **`notebooks/`**: Jupyter notebooks with data exploration, preprocessing, feature engineering, model training, and evaluation.
 
 ## Key Stages and Techniques
 

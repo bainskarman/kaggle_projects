@@ -6,11 +6,6 @@ Welcome to the Crab Age Regression project repository. This project focuses on p
 
 The Crab Age Dataset is used in this project, containing features related to crab morphology and measurements. The target variable is the age of the crabs.
 
-## Directory Structure
-
-- **`data/`**: Contains the Crab Age Dataset for training and testing.
-- **`notebooks/`**: Jupyter notebooks with data exploration, preprocessing, model training, and evaluation.
-
 ## Key Regression Models
 
 1. **XGBoost Regressor**

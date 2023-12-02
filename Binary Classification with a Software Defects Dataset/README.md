@@ -6,10 +6,6 @@ Welcome to the Software Defects Detection project repository. This project focus
 
 The dataset used in this project contains features related to software development metrics, code complexity, and other relevant parameters. The target variable indicates whether a software module has defects (1) or not (0).
 
-## Directory Structure
-
-- **`data/`**: Contains the dataset used for training and testing.
-- **`notebooks/`**: Jupyter notebooks with data exploration, feature engineering, model training, and evaluation.
 
 ## Algorithms Used
 

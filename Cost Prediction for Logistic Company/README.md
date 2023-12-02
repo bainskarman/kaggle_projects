@@ -6,10 +6,6 @@ Welcome to the repository for the Kaggle inter-class competition project - "Trip
 
 The primary objective of this project is to develop accurate and efficient models for predicting the cost of trips undertaken by a logistics company. The dataset provided by Kaggle includes various features such as distance, weight, vehicle type, and other relevant parameters that influence the cost of each trip.
 
-## Directory Structure
-
-- **`data/`**: Contains the dataset used for training and testing.
-- **`notebooks/`**: Jupyter notebooks with exploratory data analysis, feature engineering, model training, and evaluation.
 
 ## Machine Learning Techniques
 
